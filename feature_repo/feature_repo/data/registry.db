@@ -7,20 +7,21 @@ D
 %
 __dummy"
 __dummy_idJfraud_features
-½ÀÄ GÿËÉÅ°Şˆù1"$e8aecf49-e585-4679-bef3-33dc8613f5ac*îÎÉÅ˜ıŞ¾2…
+½ÀÄ GÿËÉÅ°Şˆù1"$ba4178c6-f1d1-4a12-9856-e2733731e1c7*‹ÓÉÅ°óÃ2—
 ø
 fraud_metricsfraud_featuresuser_id"
 
 amount"
 is_fraud2€£:event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquet’ÿËÉÅÀŒû""ÿËÉÅ°­÷@b
-user_id‡
-½ÀÄˆ±DîÎÉÅˆƒÃ¾
+user_id™
+½ÀÄˆ±D‹ÓÉÅØ“Ã
 €‡°Ä€ªµÄ
 €ªµÄ€“ÅÄ
 €“ÅÄ€ğ¿Ä
 €“ÅÄ€ğ¿Ä
 €‡°Ä€ªµÄ
-€“ÅÄéÎÉÅb°event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetªfraud_features’üÅÄ’¬ï"üÅÄ° –”Š/
+€“ÅÄéÎÉÅ
+éÎÉÅ†ÓÉÅb°event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetªfraud_features’üÅÄ’¬ï"üÅÄ° –”Š/
 
 fraud_features
 ½ÀÄ¸¯‰›ÿËÉÅˆ°$
